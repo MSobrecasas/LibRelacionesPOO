@@ -12,6 +12,5 @@ namespace LibRelacionesPOO.Caso_5
         public string Telefono { get; set; }
         public string Email { get; set; }
         public Cliente Cliente { get; set; }
-        public Empleado empleado { get; set; }
     }
 }

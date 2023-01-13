@@ -10,6 +10,5 @@ namespace LibRelacionesPOO.Caso_6
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
-        public Director Director { get; set; }
     }
 }

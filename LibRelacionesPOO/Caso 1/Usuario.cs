@@ -10,6 +10,8 @@ namespace LibRelacionesPOO.Caso_1
     {
         public string Nombre { get; set; }
         public string Password { get; set; }
+
+        public Cliente Cliente { get; set; }
     }
 
 }
